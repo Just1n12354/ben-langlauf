@@ -6,12 +6,14 @@ gelöst, wenn ein unabhängiger Testlauf sie bestätigt — nicht, wenn der Agen
 das behauptet.
 
 **→ [Alle 376 Aufgaben ansehen](https://just1n12354.github.io/ben-langlauf/)**
+**→ [Als PDF, 87 Seiten](https://just1n12354.github.io/ben-langlauf/ben-6-stunden.pdf)**
 
 | | |
 |---|---:|
 | gelöste Aufgaben | 376 |
 | Fehlschläge | 0 |
-| Zeilen Code | 1 644 |
+| Zeilen Code | 5 341 |
+| davon in den 68 einzeln geschriebenen | 1 644 |
 | Median je Aufgabe | 52 s |
 | manipulierte Tests | 0 |
 
